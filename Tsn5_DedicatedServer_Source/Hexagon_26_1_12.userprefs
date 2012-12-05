@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MainGameAssets\Scripts\Network\NetworkLevelLoad.js">
+    <Files>
+      <File FileName="Assets\Player\CharacterControls-(No Networking code)\PlayerCombat.js" Line="77" Column="33" />
+      <File FileName="Assets\MainGameAssets\Scripts\unlock.js" Line="65" Column="7" />
+      <File FileName="Assets\MainGameAssets\Scripts\EndGameScreenScript.js" Line="15" Column="54" />
+      <File FileName="Assets\MainGameAssets\Scripts\Network\MasterServerGui.js" Line="62" Column="45" />
+      <File FileName="Assets\MainGameAssets\Scripts\Network\SpawnPlayerLogic.js" Line="617" Column="10" />
+      <File FileName="Assets\MainGameAssets\Scripts\Sonar.js" Line="47" Column="45" />
+      <File FileName="Assets\MainGameAssets\Scripts\main.js" Line="206" Column="178" />
+      <File FileName="Assets\MainGameAssets\Scripts\PickupScript.js" Line="38" Column="4" />
+      <File FileName="Assets\MainGameAssets\Scripts\Hint.js" Line="83" Column="30" />
+      <File FileName="Assets\Player\SoundScript\PunchingSound.js" Line="27" Column="2" />
+      <File FileName="Assets\Enemy\CharacterControls-(No Networking code)\EnemyAttackSound.js" Line="8" Column="22" />
+      <File FileName="Assets\MainGameAssets\Scripts\KeyAnimation.js" Line="3" Column="1" />
+      <File FileName="Assets\Enemy\CharacterControls-(No Networking code)\EnemyTreeController.js" Line="203" Column="1" />
+      <File FileName="Assets\MainGameAssets\Scripts\Network\NetworkLevelLoad.js" Line="72" Column="22" />
+      <File FileName="Assets\MainGameAssets\Scripts\Network\ConnectGui.js" Line="88" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
